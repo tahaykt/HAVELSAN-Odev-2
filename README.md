@@ -6,5 +6,5 @@ Açık Kaynak Yazılım Geliştirme Odev 2
 
 # OUTPUT
 ./script.sh
-Permission:777 User:taha Group:sudo file:script.sh
+Permission:777 User:taha Group:sudo file:script.sh          
 Taha Yakıt 214210092
